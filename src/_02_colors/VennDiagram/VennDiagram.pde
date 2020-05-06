@@ -5,3 +5,7 @@ fill(#0D53FF, 100);
 ellipse(350, 200,  250, 250);
 fill(#FF080C, 100);
 ellipse(275, 350,  250, 250);
+textSize(25);
+text("Nice", 150, 200);
+text("Smart", 350, 200);
+text("Awesome", 215, 375);
