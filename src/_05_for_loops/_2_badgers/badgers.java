@@ -26,8 +26,8 @@ for (int i2 = 0; i2 < 5; i2++) {
 	JOptionPane.showMessageDialog(null, "snake");}
 	
 }
-}
+
 for (int i4 = 0; i4 < 12; i4++) {JOptionPane.showMessageDialog(null, "badger");}
 }
-
+}
 
